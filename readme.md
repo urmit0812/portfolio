@@ -38,7 +38,6 @@
 - Skills & Experience
 - Education
 - Projects
-- Extra Curricular
 - Contact Me
 
 ### Using Git and Github
